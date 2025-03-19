@@ -1,8 +1,7 @@
 ## Hi there 👋
 
-- 🔭 I’m currently working on React Native and Go
+- 🔭 I’m currently working on React Native
 - 🌱 I’m currently learning Go
-- 🤔 I’m looking for help with React Native
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alexandre1a&show_icons=true&theme=transparent)
 
