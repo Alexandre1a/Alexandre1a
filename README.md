@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-- 🔭 I’m currently working on React Native
+- 🔭 I’m currently working on a Todo app in React Native
 - 🌱 I’m currently learning Go
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alexandre1a&show_icons=true&theme=transparent)
