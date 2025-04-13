@@ -11,3 +11,8 @@
 
 ## Top Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Alexandre1a&layout=compact&theme=radical)
+
+## Github Pet
+<a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/farms/Alexandre1a"/>
+</a>
