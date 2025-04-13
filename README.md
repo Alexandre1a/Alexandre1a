@@ -1,3 +1,11 @@
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=Alexandre1a&utm_content=line">
+  <img
+    src="https://render.gitanimals.org/lines/Alexandre1a?pet-id=699282603676896119"
+    width="600"
+    height="120"
+  />
+</a>
+  
 ## Hi there 👋
 
 - 🔭 I’m currently working on a Todo app in React Native
